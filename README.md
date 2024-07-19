@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Omish1986/LeetCode-Solution/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Omish1986/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Omish1986/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
