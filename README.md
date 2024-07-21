@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Omish1986/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Omish1986/LeetCode-Solution/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
