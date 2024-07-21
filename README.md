@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Omish1986/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Omish1986/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 ## Hash Table
 |  |
 | ------- |
