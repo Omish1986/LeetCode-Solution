@@ -7,16 +7,16 @@ public:
        int start=0;
        int end=0;
         sort(nums.begin(),nums.end());
-       for(end=0;end<n;end++)
+       while(end<n)
        {
-          sum+=nums[end];
-          while(k+sum<(long)nums[end]*(end-start+1))
+          sum+=nums[end++];
+          if(k+sum<(long)nums[end-1]*(end-start))
           {
-            sum-=nums[start];
-            start++;
+            sum-=nums[start++];
+           
 
           }
-          maxf=max(maxf,end-start+1);
+          maxf=max(maxf,end-start);
 
        }
        return maxf;
