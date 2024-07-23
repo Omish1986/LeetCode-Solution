@@ -1,36 +1,26 @@
 class Solution {
 public:
-    bool checkCommonCh(vector<int> &a, vector<int> &b)
-    {
-        for (int i=0; i<26; i++)
-        {
-            if (a[i] > 0 && b[i] > 0)
-                return true;
-        }
+   int maxProduct(vector<string>& words) {
+	vector<int> v;
 
-        return false;
-    }
+	for (auto i: words) {
+		int value = 0;
+		for (int j=0;j<i.length();j++) {
+			int temp = 1 << (int(i[j])-97);
+			value = value | temp;
+		}
+		v.push_back(value);
+	}
 
-    int maxProduct(vector<string>& words) {
-        int n = words.size();
-        int res = 0;
-        vector<vector<int>> V(n, vector<int>(26, 0));
-        for (int i = 0; i < n; i++) {
+	int ans = 0;
+	for (int i=0;i<v.size()-1;i++) {
+		for (int j=i+1;j<v.size();j++) {
+			if ((v[i] & v[j]) == 0)
+				if (ans < words[i].length()*words[j].length())
+					ans = words[i].length()*words[j].length();
+		}
+	}
 
-            for (auto ch : words[i])
-                V[i][ch - 'a']++;
-
-            for (int j=0; j<i; j++)
-            {
-                if (!checkCommonCh(V[i], V[j]))
-                {
-                    int size = words[i].size()*words[j].size();
-                    res = max(res, size);
-                }
-                    
-            }
-        }
-
-        return res;
-    }
+	return ans;
+}
 };
