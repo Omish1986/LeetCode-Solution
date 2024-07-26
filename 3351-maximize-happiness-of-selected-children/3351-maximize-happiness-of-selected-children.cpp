@@ -8,6 +8,8 @@ public:
             int num=h[i]-i;
             if(num>0)
             a+=num;
+            else
+            break;
         }
         return a;
         
