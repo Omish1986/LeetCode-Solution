@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Omish1986/LeetCode-Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/Omish1986/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
 ## Stack
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Matrix
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Omish1986/LeetCode-Solution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -108,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
