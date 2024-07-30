@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Omish1986/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Omish1986/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Omish1986/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Omish1986/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Omish1986/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Omish1986/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Omish1986/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
 | ------- |
