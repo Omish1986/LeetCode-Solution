@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0260-single-number-iii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Omish1986/LeetCode-Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0948-sort-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Omish1986/LeetCode-Solution/tree/master/1293-three-consecutive-odds) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Omish1986/LeetCode-Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0476-number-complement](https://github.com/Omish1986/LeetCode-Solution/tree/master/0476-number-complement) |
 ## Divide and Conquer
