@@ -4,14 +4,11 @@ public:
         vector<long long>v;
         long long  sum =0;
         long long maxNum=INT_MIN;
-        for(int i=0;i<nums.size();i++)
+        for(long long  x:nums)
         {
-            if(nums[i]>maxNum)
-            {
-                maxNum=nums[i];
-            }
+           maxNum = max(maxNum,x);
 
-            sum+=nums[i]+maxNum;
+            sum+=x+maxNum;
 
             v.push_back(sum);
 
