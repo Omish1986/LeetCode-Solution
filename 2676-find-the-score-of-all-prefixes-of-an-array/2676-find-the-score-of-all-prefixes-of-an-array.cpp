@@ -1,21 +1,16 @@
 class Solution {
 public:
     vector<long long> findPrefixScore(vector<int>& nums) {
-        vector<long long>v;
-        long long  sum =0;
-        long long maxNum=INT_MIN;
-        for(long long  x:nums)
-        {
-           maxNum = max(maxNum,x);
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        vector<long long> ans;
+        long long m = nums[0];
+        ans.push_back(m + m);
 
-            sum+=x+maxNum;
-
-            v.push_back(sum);
-
-
+        for (int i = 1; i < nums.size(); i++){
+            m = max((long long)nums[i], m);
+            ans.push_back(m + ans[i-1] + nums[i]);
         }
-        return v;
-
-        
+        return ans;
     }
 };
