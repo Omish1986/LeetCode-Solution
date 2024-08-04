@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<long long> findPrefixScore(vector<int>& nums) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
+        // ios::sync_with_stdio(false);
+        // cin.tie(nullptr);
         vector<long long> ans;
         long long m = nums[0];
         ans.push_back(m + m);
