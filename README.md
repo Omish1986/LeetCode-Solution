@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Omish1986/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Omish1986/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Omish1986/LeetCode-Solution/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Omish1986/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
