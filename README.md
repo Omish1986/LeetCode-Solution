@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Omish1986/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Omish1986/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Omish1986/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Omish1986/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Omish1986/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Omish1986/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Omish1986/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Omish1986/LeetCode-Solution/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
