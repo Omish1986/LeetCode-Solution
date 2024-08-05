@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Omish1986/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Omish1986/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Omish1986/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Omish1986/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Omish1986/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -62,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Matrix
 |  |
