@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0392-is-subsequence](https://github.com/Omish1986/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1894-merge-strings-alternately](https://github.com/Omish1986/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Omish1986/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Omish1986/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Omish1986/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1894-merge-strings-alternately](https://github.com/Omish1986/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Omish1986/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
