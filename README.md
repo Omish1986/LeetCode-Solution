@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Omish1986/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Omish1986/LeetCode-Solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Omish1986/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Omish1986/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Omish1986/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Binary Search
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Omish1986/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Omish1986/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
