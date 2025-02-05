@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omish1986/LeetCode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Omish1986/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/Omish1986/LeetCode-Solution/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Omish1986/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Omish1986/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Omish1986/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2502-sort-the-people](https://github.com/Omish1986/LeetCode-Solution/tree/master/2502-sort-the-people) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Omish1986/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Omish1986/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omish1986/LeetCode-Solution/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Matrix
